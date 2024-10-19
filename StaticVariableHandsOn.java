@@ -11,6 +11,8 @@ public class StaticVariableHandsOn {
 	 eventhough there are all possiblity to change the value of the NoOFwheels..so if we don't want to change the value of the static variable
 	and reminds constant we can use a constant varaible ie ..using a final keyword
 	HERE WE USED THE SNAKECASE FOR COSNTANT VARIABLE
+ 
+ 	reference -->https://www.scaler.com/topics/java/static-variable-in-java/ 
 	
 */
 	static final int NO_OF_WHEELS=10;
