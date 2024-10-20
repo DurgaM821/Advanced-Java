@@ -6,4 +6,5 @@ This repo will consists of projects related to Advance java which I will update 
 2.  Patient.java --> Use of 'this' Keyword with Constructor
 3.  Customer.java --> Customer java  is about Constructor chaining + CustomerMain is the Main class
 4.  StaticVariableHandsOn.java --> static & final keyword usage
+5.  StaticMethodsEx --> How to use static methods and instance methods
     
