@@ -8,4 +8,5 @@ This repo will consists of projects related to Advance java which I will update 
 4.  StaticVariableHandsOn.java --> static & final keyword usage
 5.  StaticMethodsEx --> How to use static methods and instance methods
 6.  StaticInitializerBlock.java,SIBMain.java --> StaticInitializationBlock concept is used.
+7.  SIBexample.java--> SIB concept solved in hackerrank
     
