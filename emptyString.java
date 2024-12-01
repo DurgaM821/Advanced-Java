@@ -20,6 +20,7 @@ public class Main
      System.out.println(text.isEmpty());       // false
      System.out.println(emptyString.isEmpty()); // true
      System.out.println("".equals(emptyString)); // true
+     System.out.println(emptyString.length()==0); // true
      
      
      String present=null;
