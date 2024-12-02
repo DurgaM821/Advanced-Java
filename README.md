@@ -10,4 +10,5 @@ This repo will consists of projects related to Advance java which I will update 
 6.  StaticInitializerBlock.java,SIBMain.java --> StaticInitializationBlock concept is used.
 7.  SIBexample.java--> SIB concept solved in hackerrank
 8.  EmptyString.java --> Provides the methods for checking the empty string, isblank, length
+9.  Pattern1.java --> Patterns questions (https://www.youtube.com/@yeshendradhaker)
     
